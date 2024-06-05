@@ -1,3 +1,3 @@
-# Belajar Penerapan Machine Learning dengan Google Cloud
+# Konfigurasi Discussion Forum
 
-Branch ini digunakan untuk modul Studi Kasus: Membangun Aplikasi Machine Learning Dengan Google Cloud.
+Branch ini digunakan untuk menyimpan file mengenai fitur discussion forum
